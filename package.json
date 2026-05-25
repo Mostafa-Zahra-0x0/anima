@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-anima-pet",
+  "version": "1.0.0",
+  "description": "An intelligent, empathic AI companion for Obsidian",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs --watch",
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "esbuild": "^0.25.0",
+    "obsidian": "^1.7.2",
+    "typescript": "^5.7.0"
+  }
+}

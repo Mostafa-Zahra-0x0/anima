@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-anima-pet",
+  "name": "Anima",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "An intelligent, empathic AI companion that lives in your sidebar, reacts to your notes, and uses your own API keys.",
+  "author": "Mostafa Zahra",
+  "isDesktopOnly": true
+}

@@ -6,7 +6,7 @@ const prod = process.argv.includes("production");
 
 const context = await esbuild.context({
   entryPoints: ["main.ts"],
-  outfile: "/home/mostafazahra101/Documents/test-obsidian/.obsidian/plugins/anima",
+  outfile: "/home/mostafazahra101/Documents/test-obsidian/.obsidian/plugins/anima/main.js",
   bundle: true,
   external: [
     "obsidian",

@@ -32,4 +32,4 @@ An intelligent, empathic AI companion and development agent built natively for O
 
 ## 📄 License
 
-MIT License. Created by [Mostafa Zahra](https://www.google.com/search?q=https://github.com/YOUR_USERNAME).
+MIT License. Created by [Mostafa Zahra](https://github.com/Mostafa-Zahra-0x0).

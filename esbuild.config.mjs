@@ -10,7 +10,6 @@ const context = await esbuild.context({
   bundle: true,
   external: [
     "obsidian",
-    "@google/generative-ai",
     ...builtinModules,
   ],
   format: "cjs",
